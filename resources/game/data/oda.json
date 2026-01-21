@@ -1,0 +1,46 @@
+{
+    "configuracoes": {
+        "marca":"COC",
+        "codigo": "ARCO",
+        "musica": {
+            "src": "",
+            "volume": 0.1
+        }
+    },
+    "creditos":[
+        {
+            "titulo":"CRÉDITOS DE IMAGEM",
+            "texto": "kikivagnerova/stock.adobe.com;\nImagem gerada por IA/Gemini; Andressa Landarim\nImagem gerada por IA/OpenAI; Andressa Landarim"
+        },
+        {
+            "titulo":"CRÉDITOS DE SOM",
+            "texto": "\"Industrious Ferret\"  Kevin MacLeod CC BY 4.0 /incompetech.com; ElevenLabs/voz e efeitos sonoros gerados por Inteligência Artificial"
+        }
+    ],
+    "orientacaoMetodologica": [
+        {
+            "titulo": "ORIENTAÇÃO METODOLÓGICA",
+            "texto": ""
+        }
+    ],
+    "paginas": [
+        {
+            "enunciado": {
+                "titulo": "",
+                "texto": "",
+                "codNarracao": ""
+            }
+        },
+        {
+            "enunciado": {
+                "titulo": "",
+                "texto": "",
+                "codNarracao": ""
+            },
+            "orientacaoProfessor": {
+                "titulo": "",
+                "texto": ""
+            }
+        }
+    ]
+}

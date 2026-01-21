@@ -1,0 +1,14 @@
+{
+  "dialogo_exemplo_1": [
+    { "texto": "VAMOS ATENDER O PEDIDO! PEGUE AS CAIXAS CERTAS E MONTE O NOME DO BRINQUEDO."},
+    { "texto": "CLIQUE NA LUPA PARA VER AS SÍLABAS E ARRASTE A CAIXA CORRETA PARA COMPLETAR A PALAVRA." }
+  ],
+  "dialogo_exemplo_2": [
+    { "texto": "Você encontrou um item raro." },
+    { "texto": "Que sorte! Isso vai me ajudar muito." }
+  ],
+  "dialogo_exemplo_3": [
+    { "texto": "O caminho à frente parece perigoso." },
+    { "texto": "Vamos seguir com cuidado." }
+  ]
+}
