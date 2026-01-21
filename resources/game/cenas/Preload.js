@@ -111,7 +111,7 @@ export class Preload extends Phaser.Scene {
         this.load.image('btvoltar2', 'resources/images/jogo/btvoltar2.png');
         this.load.image('luzvermelha', 'resources/images/jogo/luzvermelha.png');
         this.load.image('luzverde', 'resources/images/jogo/luzverde.png');
-        this.load.image('btavancar2', 'resources/images/jogo/btAvancar2.png');
+        this.load.image('btavancar2', 'resources/images/jogo/btavancar2.png');
         this.load.image('btfala', 'resources/images/jogo/btfala.png');
         this.load.image('ao', 'resources/images/jogo/ao.png');
         this.load.image('caao', 'resources/images/jogo/caao.png');
